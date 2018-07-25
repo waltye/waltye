@@ -1,0 +1,23 @@
+{
+    "name": "waltye/blog",
+    "description": "A lightweight blog post system",
+    "keywords": ["blog", "Yii2", "Yii2Blog"],
+    "support": {
+        "issues": "https://github.com/waltye/blog/issues",
+        "source": "https://github.com/waltye/blog"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "yiisoft/yii2-swiftmailer": "*",
+        "FortAwesome/Font-Awesome": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-codeception": "*",
+        "yiisoft/yii2-debug": "*",
+        "yiisoft/yii2-gii": "*",
+        "yiisoft/yii2-faker": "*"
+    }
+}

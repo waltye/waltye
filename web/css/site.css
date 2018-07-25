@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+}
+.article-info {
+    margin-left:10px;
+}
+.article-title {
+    font-size: 18px;
+}
+/* 文章里面的所有图片按70%比例缩放 */
+p img {
+    width:70%;
+}

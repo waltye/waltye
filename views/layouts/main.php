@@ -43,7 +43,8 @@ AppAsset::register($this);
             <?= $content ?>
             <div class="site-foot row">
                 <div class="col-lg-12">
-                    <div class="ds-thread"><a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020023311号-1</a></div>
+                    <hr>
+                    <div class="ds-thread" style="margin-top: 20px;text-align: center;"><a style="color:#999fa5;text-decoration:none;" href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020023311号-1</a></div>
                 </div>
             </div>
         </div>
